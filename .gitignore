@@ -56,6 +56,9 @@ apps/cloud/.wrangler/
 apps/ios
 apps/android
 
+# Rendered clips
+clips/*.mp4
+
 # Desktop bundled ffmpeg binaries (large; fetched/built per-platform, documented in MANIFEST.json)
 apps/desktop/resources/bin/**/ffmpeg
 apps/desktop/resources/bin/**/ffmpeg.exe
